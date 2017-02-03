@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="hello">hello world</string>
+    <string name="id">hello</string>
+    <string name="string">id</string>
+    <string name="title_activity_image">image</string>
+</resources>
